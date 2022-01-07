@@ -1,0 +1,17 @@
+body{
+    background-image: url("./Media/jungle.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    
+}
+#allbuttons{
+    display: flex;justify-content: center;
+}
+
+button{margin-right: 10px; background-color: #606c38; cursor: pointer;
+}
+
+h1{color: ivory; text-align: center;font-family:'Lobster', cursive;
+}
